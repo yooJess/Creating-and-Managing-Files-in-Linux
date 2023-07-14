@@ -75,7 +75,7 @@ Note:<br/>The recommended sequence of commands for saving a file with the nano t
     <img src="https://i.imgur.com/m9RpTM0.png" height="80%" width="80%" alt="Concatenate tasks"/><br/>
 <br/>
 <br/>
-Nice! Once we've 'cat' or 'concatenate', to see the contents of 'tasks.txt' we can see that our text has been saved within that 'tasks.txt' file!<br/>
+Nice! Once we've 'cat' or 'concatenate', to see the contents of 'tasks.txt' we can see that our text has been saved within that 'tasks.txt' file! This is one of my project portofolio on how to manage files within Linux!<br/>
 <br/>
 <br/>
          
